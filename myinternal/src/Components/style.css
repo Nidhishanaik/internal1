@@ -1,0 +1,37 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(158, 204, 241)
+  }
+  
+  section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+   
+  
+  
+  div {
+    margin: 20px;
+    text-align: top;
+    border: 1px solid  #0f090d; 
+    padding: 10px; 
+  }
+  
+  img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 10px;
+    display: block; 
+  }
+  
+  h2,h4 {
+    margin: 0;
+    color:#110a0e;
+  }
+  
